@@ -1,7 +1,7 @@
 1. Overview:
-This project is my first step into Exploratory Data Analysis (EDA) using Python and Pandas.
+*This project is my first step into Exploratory Data Analysis (EDA) using Python and Pandas.
 The dataset contains airline passenger bookings, and I explore trends such as class distribution and other key insights.
-Answered simple business-related questions using data.
+Answered simple business-related questions using data.*
 
 
 2. Dataset:
